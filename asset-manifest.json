@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e618279.css",
-    "main.js": "/static/js/main.379c53b8.js",
+    "main.css": "/static/css/main.cf498335.css",
+    "main.js": "/static/js/main.9eaa592b.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/table.jpg": "/static/media/table.74ddc04402b4c9c2c071.jpg",
     "static/media/close_lid.jpg": "/static/media/close_lid.7f5552f3dcd2d08b76de.jpg",
+    "static/media/lid_mid.jpg": "/static/media/lid_mid.4dae92d690d2a67dde3a.jpg",
     "static/media/Arjuny.png": "/static/media/Arjuny.41b02d490f541aabd120.png",
     "static/media/arjunlogo2.png": "/static/media/arjunlogo2.6bc7c94e661116e2ef97.png",
     "index.html": "/index.html",
-    "main.3e618279.css.map": "/static/css/main.3e618279.css.map",
-    "main.379c53b8.js.map": "/static/js/main.379c53b8.js.map",
+    "main.cf498335.css.map": "/static/css/main.cf498335.css.map",
+    "main.9eaa592b.js.map": "/static/js/main.9eaa592b.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e618279.css",
-    "static/js/main.379c53b8.js"
+    "static/css/main.cf498335.css",
+    "static/js/main.9eaa592b.js"
   ]
 }
