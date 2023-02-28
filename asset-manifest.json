@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.79a2c9a5.css",
-    "main.js": "/static/js/main.314eee3b.js",
+    "main.js": "/static/js/main.5f41dc41.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/overstock.PNG": "/static/media/overstock.49e0261d0e45831a6612.PNG",
     "static/media/ssense.PNG": "/static/media/ssense.35ffafee81b5267ca5ae.PNG",
     "static/media/close_lid.jpg": "/static/media/close_lid.7f5552f3dcd2d08b76de.jpg",
     "static/media/tripvillas.PNG": "/static/media/tripvillas.5c03246d03d85937eb65.PNG",
     "static/media/rentmojo.PNG": "/static/media/rentmojo.d9b08212535d483eafab.PNG",
-    "static/media/lid_mid.jpg": "/static/media/lid_mid.4dae92d690d2a67dde3a.jpg",
     "static/media/Arjuny.png": "/static/media/Arjuny.41b02d490f541aabd120.png",
     "static/media/arjunlogo2.png": "/static/media/arjunlogo2.6bc7c94e661116e2ef97.png",
     "index.html": "/index.html",
     "main.79a2c9a5.css.map": "/static/css/main.79a2c9a5.css.map",
-    "main.314eee3b.js.map": "/static/js/main.314eee3b.js.map",
+    "main.5f41dc41.js.map": "/static/js/main.5f41dc41.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79a2c9a5.css",
-    "static/js/main.314eee3b.js"
+    "static/js/main.5f41dc41.js"
   ]
 }
