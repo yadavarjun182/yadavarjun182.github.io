@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c50dc48e.css",
-    "main.js": "/static/js/main.dc6054bb.js",
+    "main.css": "/static/css/main.6c6ebf8b.css",
+    "main.js": "/static/js/main.b97cdfad.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/ssense.PNG": "/static/media/ssense.35ffafee81b5267ca5ae.PNG",
     "static/media/close_lid.jpg": "/static/media/close_lid.7f5552f3dcd2d08b76de.jpg",
@@ -13,12 +13,12 @@
     "static/media/Arjun.pdf": "/static/media/Arjun.3765111cf1f461424b71.pdf",
     "static/media/arjunlogo2.png": "/static/media/arjunlogo2.6bc7c94e661116e2ef97.png",
     "index.html": "/index.html",
-    "main.c50dc48e.css.map": "/static/css/main.c50dc48e.css.map",
-    "main.dc6054bb.js.map": "/static/js/main.dc6054bb.js.map",
+    "main.6c6ebf8b.css.map": "/static/css/main.6c6ebf8b.css.map",
+    "main.b97cdfad.js.map": "/static/js/main.b97cdfad.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c50dc48e.css",
-    "static/js/main.dc6054bb.js"
+    "static/css/main.6c6ebf8b.css",
+    "static/js/main.b97cdfad.js"
   ]
 }
