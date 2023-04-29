@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c6ebf8b.css",
-    "main.js": "/static/js/main.b97cdfad.js",
+    "main.js": "/static/js/main.63271c73.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/ssense.PNG": "/static/media/ssense.35ffafee81b5267ca5ae.PNG",
     "static/media/close_lid.jpg": "/static/media/close_lid.7f5552f3dcd2d08b76de.jpg",
@@ -14,11 +14,11 @@
     "static/media/arjunlogo2.png": "/static/media/arjunlogo2.6bc7c94e661116e2ef97.png",
     "index.html": "/index.html",
     "main.6c6ebf8b.css.map": "/static/css/main.6c6ebf8b.css.map",
-    "main.b97cdfad.js.map": "/static/js/main.b97cdfad.js.map",
+    "main.63271c73.js.map": "/static/js/main.63271c73.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c6ebf8b.css",
-    "static/js/main.b97cdfad.js"
+    "static/js/main.63271c73.js"
   ]
 }
